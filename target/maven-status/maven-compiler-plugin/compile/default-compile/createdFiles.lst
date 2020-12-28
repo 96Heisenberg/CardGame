@@ -1,0 +1,5 @@
+com\innovation\cardgame\model\Card.class
+com\innovation\cardgame\model\Rank.class
+com\innovation\cardgame\model\User.class
+com\innovation\cardgame\model\Suit.class
+com\innovation\cardgame\App.class
